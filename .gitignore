@@ -4,10 +4,12 @@
 # ...even if they are in subdirectories
 !*/
 
-# But not these files...
-!.gitignore
+# But not these file types...
 !*.py
 !*.ipynb
-!*.txt
-!*.md
-# etc...
+
+# and files
+
+!.gitignore
+!LICENSE
+!README.md

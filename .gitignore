@@ -7,6 +7,7 @@
 # But not these file types...
 !*.py
 !*.ipynb
+!*.npy
 
 # and files
 

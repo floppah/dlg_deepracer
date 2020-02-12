@@ -10,7 +10,7 @@
 !*.npy
 
 # and files
-
+!LOGSGOHERE
 !.gitignore
 !LICENSE
 !README.md
